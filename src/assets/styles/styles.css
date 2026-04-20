@@ -1,0 +1,23 @@
+/* src/assets/styles/styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+
+.first-page {
+  background-image: url("../imgs/tower.png");
+}
+.footer {
+  background-image: url("../imgs/tower.png");
+}
+
